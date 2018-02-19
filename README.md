@@ -130,4 +130,4 @@ This short python script will extract everything that is a zipfile in the data d
 # Disclamer
 Create apps at your own risk I'm not sure if it is against spotify's terms of service or other legal stuff. Because of this I have included none of spotify's own unedited code you can get it yourself and extract it from the spotify Apps folder.
 
-* [Top](#spotify-app-extraction) *
+*[Top](#spotify-app-extraction)*
