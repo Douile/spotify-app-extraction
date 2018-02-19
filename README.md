@@ -121,3 +121,7 @@ The manifest.json files look something like this ( [skip](#end-manifest) )
 | **InjectStylesheets** | Haven't tested this yet |
 | **AppName** | Not sure what this is for |
 | **Everything else** | I have just left as is because is the same in all other apps |
+
+---
+# unzip.py
+This short python script will extract everything that is a zipfile in the data directory to the output directory. As seen with test.spa.
